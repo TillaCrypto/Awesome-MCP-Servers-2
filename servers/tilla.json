@@ -1,0 +1,8 @@
+{
+  "name": "TILLA",
+  "url": "https://github.com/TillaCrypto/tilla",
+  "category": "finance",
+  "transport": "stdio",
+  "description": "Read-only market data for agents: crypto spot and perps, every BTC/ETH spot ETF fund, US stocks, FX, indices, rates, macro and on-chain data from TILLA's own Bitcoin node, on one UTC clock from 1-minute to quarterly; 14 tools, free key with no card. Install: `pip install tilla-mcp`",
+  "registry": "io.github.TillaCrypto/tilla-mcp"
+}
